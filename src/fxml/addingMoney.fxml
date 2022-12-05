@@ -10,9 +10,9 @@
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.addingMoneyController">
 
     <children>
-        <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="524.0" prefWidth="864.0" style="-fx-background-color: #2d7891;">
+        <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="524.0" prefWidth="864.0" style="-fx-background-color: #6a5aCD;">
             <children>
-                <AnchorPane layoutY="75.0" prefHeight="450.0" prefWidth="864.0" style="-fx-background-color: #a10b23;">
+                <AnchorPane layoutY="75.0" prefHeight="450.0" prefWidth="864.0" style="-fx-background-color: #ffc0cb;">
                     <children>
                         <Label layoutX="338.0" layoutY="14.0" text="Ваш депозит" textFill="#8a8a8a">
                             <font>
@@ -34,12 +34,12 @@
                                 <Font size="25.0" />
                             </font>
                         </Label>
-                        <Button fx:id="Exitеbutton" layoutX="332.0" layoutY="270.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #B43A83;" text="До побачення">
+                        <Button fx:id="Exitеbutton" layoutX="332.0" layoutY="270.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #6a5acd;" text="До побачення">
                             <font>
                                 <Font size="16.0" />
                             </font>
                         </Button>
-                        <Button fx:id="onMаіnbutton" layoutX="332.0" layoutY="369.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #B43A83;" text="На головну">
+                        <Button fx:id="onMаіnbutton" layoutX="332.0" layoutY="369.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #6a5acd;" text="На головну">
                             <font>
                                 <Font size="16.0" />
                             </font>

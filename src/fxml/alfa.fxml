@@ -9,7 +9,7 @@
 
 <AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.controleralfa">
     <children>
-        <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="524.0" prefWidth="864.0" style="-fx-background-color: #2d7891;">
+        <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="524.0" prefWidth="864.0" style="-fx-background-color: #6a5acd;">
             <children>
                 <AnchorPane layoutY="75.0" prefHeight="450.0" prefWidth="864.0" style="-fx-background-color: #fafafa;">
                     <children>
@@ -53,12 +53,12 @@
                                 <Font size="25.0" />
                             </font>
                         </Label>
-                        <Button fx:id="conytinuebutton" layoutX="765.0" layoutY="409.0" mnemonicParsing="false" style="-fx-background-color: #F39C63;" text="Продовжити">
+                        <Button fx:id="conytinuebutton" layoutX="765.0" layoutY="409.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="Продовжити">
                             <font>
                                 <Font name="Lucida Bright" size="12.0" />
                             </font>
                         </Button>
-                        <Button fx:id="backbutton" layoutX="693.0" layoutY="408.0" mnemonicParsing="false" style="-fx-background-color: #F39C63;" text="назад" />
+                        <Button fx:id="backbutton" layoutX="693.0" layoutY="408.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="назад" />
                     </children>
                 </AnchorPane>
                 <Label layoutX="337.0" layoutY="14.0" text="Banks " textFill="WHITE">

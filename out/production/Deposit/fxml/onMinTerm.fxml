@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="514.0" prefWidth="854.0" style="-fx-background-color: #2d7891;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.MinTermController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="514.0" prefWidth="854.0" style="-fx-background-color: #6a5acd;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.MinTermController">
     <children>
         <AnchorPane layoutY="75.0" prefHeight="438.0" prefWidth="854.0" style="-fx-background-color: #fafafa;">
             <children>
@@ -73,13 +73,13 @@
                         </ImageView>
                     </graphic>
                 </Button>
-            <Button fx:id="buttonName" layoutX="11.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: #c23d32;" text="За назвою" />
-            <Button fx:id="buttonPercent" layoutX="402.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: #c23d32;" text="За відсотками" />
-            <Button fx:id="buttonMaxTerm" layoutX="508.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: #c23d32;" text="За максимальним терміном" />
-            <Button fx:id="buttonMaxSum" layoutX="88.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: #c23d32;" text="За максимальною сумою" />
-            <Button fx:id="buttonMinSum" layoutX="252.0" layoutY="382.0" mnemonicParsing="false" style="-fx-background-color: #c23d32;" text="За мінімальною сумою" />
-            <Button fx:id="buttonStart" layoutX="684.0" layoutY="382.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="158.0" style="-fx-background-color: #c23d32;" text="Початковий список" />
-            <Label layoutX="303.0" layoutY="339.0" text="Сортування:" textFill="#e80000">
+                <Button fx:id="buttonName" layoutX="25.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За назвою" />
+                <Button fx:id="buttonPercent" layoutX="440.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За %" />
+                <Button fx:id="buttonMinTerm" layoutX="682.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За міні. терміном" />
+                <Button fx:id="buttonMaxTerm" layoutX="525.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За мак. терміном" />
+                <Button fx:id="buttonMaxSum" layoutX="147.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За мак. сумою" />
+                <Button fx:id="buttonMinSum" layoutX="292.0" layoutY="391.0" mnemonicParsing="false" style="-fx-background-color: #6a5acd;" text="За мін. сумою" />
+                <Label layoutX="314.0" layoutY="341.0" text="Сортування:" textFill="#2e3348">
                <font>
                   <Font name="Lucida Bright" size="28.0" />
                </font>

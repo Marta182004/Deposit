@@ -6,16 +6,16 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" style="-fx-background-color: #2d7891;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.anketaAddingMoneyController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" style="-fx-background-color: #6a5acd;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.anketaAddingMoneyController">
     <children>
-        <AnchorPane fx:id="SingUpName" layoutY="74.0" prefHeight="326.0" prefWidth="700.0" style="-fx-background-color: #a21b87;">
+        <AnchorPane fx:id="SingUpName" layoutY="74.0" prefHeight="326.0" prefWidth="700.0" style="-fx-background-color: #ffc0cd;">
             <children>
-                <Button fx:id="buttonAddMoney" layoutX="461.0" layoutY="265.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="207.0" style="-fx-background-color: #2d5348;" text="Збільшити депозит" textFill="WHITE">
+                <Button fx:id="buttonAddMoney" layoutX="461.0" layoutY="265.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="207.0" style="-fx-background-color: #6a5acd;" text="Збільшити депозит" textFill="WHITE">
                     <font>
                         <Font name="Lucida Bright" size="15.0" />
                     </font>
                 </Button>
-                <Button fx:id="buttonBack" layoutX="270.0" layoutY="265.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="139.0" style="-fx-background-color: #2d5348;" text="Назад" textFill="WHITE">
+                <Button fx:id="buttonBack" layoutX="270.0" layoutY="265.0" mnemonicParsing="false" prefHeight="29.0" prefWidth="139.0" style="-fx-background-color: #6a5acd;" text="Назад" textFill="WHITE">
                     <font>
                         <Font name="Lucida Bright" size="15.0" />
                     </font>

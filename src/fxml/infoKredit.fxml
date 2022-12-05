@@ -38,17 +38,17 @@
                                 <Font size="25.0" />
                             </font>
                         </Label>
-                  <Button fx:id="Addingbutton" layoutX="338.0" layoutY="209.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #F50E50;" text="Збільшити депозит">
+                  <Button fx:id="Addingbutton" layoutX="338.0" layoutY="209.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color:#6a5acd;" text="Збільшити депозит">
                      <font>
                         <Font size="16.0" />
                      </font>
                   </Button>
-                  <Button fx:id="Exitеbutton" layoutX="341.0" layoutY="355.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #F50E50;" text="Вихід">
+                  <Button fx:id="Exitеbutton" layoutX="341.0" layoutY="355.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #6a5acd;" text="Вихід">
                      <font>
                         <Font size="16.0" />
                      </font>
                   </Button>
-                  <Button fx:id="Earlierbutton" layoutX="338.0" layoutY="292.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #F50E50;" text="Отримати гроші раніше терміну">
+                  <Button fx:id="Earlierbutton" layoutX="338.0" layoutY="292.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="269.0" style="-fx-background-color: #6a5acd;" text="Отримати гроші раніше терміну">
                      <font>
                         <Font size="16.0" />
                      </font>

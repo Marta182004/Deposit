@@ -6,9 +6,9 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" style="-fx-background-color: #2d7891;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.anketaController">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="700.0" style="-fx-background-color: #6a5acd;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comm.anketaController">
     <children>
-        <AnchorPane fx:id="SingUpName" layoutY="74.0" prefHeight="326.0" prefWidth="700.0" style="-fx-background-color: #a21b87;">
+        <AnchorPane fx:id="SingUpName" layoutY="74.0" prefHeight="326.0" prefWidth="700.0" style="-fx-background-color: #ffc0cd;">
             <children>
                 <TextField fx:id="AnketaTerm" layoutX="349.0" layoutY="78.0" prefHeight="80.0" prefWidth="240.0" promptText="Термін вкладу" style="-fx-background-color: #fafafa; -fx-border-color: silver; -fx-border-radius: 5;">
                <font>
@@ -18,12 +18,12 @@
                <font>
                   <Font size="29.0" />
                </font></TextField>
-                <Button fx:id="exit" layoutX="60.0" layoutY="242.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="146.0" style="-fx-background-color: #2E3348;" text="Назад" textFill="WHITE">
+                <Button fx:id="exit" layoutX="60.0" layoutY="242.0" mnemonicParsing="false" prefHeight="54.0" prefWidth="146.0" style="-fx-background-color: #6a5acd;" text="Назад" textFill="WHITE">
                     <font>
                         <Font name="Lucida Bright" size="15.0" />
                     </font>
                 </Button>
-                <Button fx:id="AnketaFind" layoutX="325.0" layoutY="244.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="272.0" style="-fx-background-color: #2E3348;" text="Зробити депозит" textFill="WHITE">
+                <Button fx:id="AnketaFind" layoutX="325.0" layoutY="244.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="272.0" style="-fx-background-color: #6a5acd;" text="Зробити депозит" textFill="WHITE">
                     <font>
                         <Font name="Lucida Bright" size="15.0" />
                     </font>
